@@ -1,7 +1,8 @@
-# v2ex-android
+﻿# v2ex-android
 
 当前版本：1.0.5
 
+https://github.com/sparkrico/v2ex-android/raw/master/v2ex_v1.0.5.apk
 _ _ _
 http://www.v2ex.com/
 
